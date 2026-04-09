@@ -1,0 +1,2 @@
+请将公司logo文件命名为 logo.png 放到此目录
+路径：c:\Users\Jing\WorkBuddy\20260402204512\jilianshun-website\public\logo.png
